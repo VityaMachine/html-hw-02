@@ -65,7 +65,8 @@
 }
 
 .table {
-  width: 50%;
+  max-width: 1000px;
+  min-width: 850px;
   border: 2px solid black;
   border-spacing: 0;
 }
